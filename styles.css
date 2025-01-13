@@ -1,0 +1,82 @@
+body {
+  background-color: lightsteelblue;
+  padding: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+}
+
+p {
+  text-align: center;
+}
+
+.screenshot {
+  display: block;
+  margin: auto;
+}
+
+.input {
+  margin-bottom: 50px;;
+}
+
+.group {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0px 10px 10px 10px;
+  margin: 50px auto;
+  max-width: 500px;
+}
+
+.subgroup {
+  border: 1px solid black;
+  border-radius: 4px;
+  padding: 0px 10px 10px 10px;
+  margin: 0 10px;
+  display: inline-block;
+}
+
+.groupTitle {
+  display: table;
+  margin: -25px auto 10px 0;
+  background-color: lightsteelblue;
+  font-size: 33px;
+  font-weight: bold;
+  padding: 0 15px;
+}
+
+.subgroupTitle {
+  display: table;
+  margin: -10px auto 10px 0;
+  background-color: lightsteelblue;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 0 5px;
+}
+
+.imgContainer {
+  position: relative;
+  display: inline-block;
+}
+
+.imgContainer > img {
+  opacity: 0.3;
+}
+
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+}
+
+.categoryComplete {
+  background-color: darkseagreen;
+}
+
+.hidden {
+  display: none;
+}
