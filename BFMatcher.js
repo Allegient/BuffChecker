@@ -175,6 +175,8 @@ let buffList = [
   { display: 'energizer-drink', algo: 'energizer-drink-white-bg' },
   { display: 'boss-rush', algo: 'boss-rush-white-bg' },
   { display: 'red-star', algo: 'red-star-white-bg' },
+  { display: 'WH', algo: 'sayram-white-bg' },
+  { display: 'door', algo: 'aurelia-white-bg' }
 ];
 
 function checkBuffs () {
