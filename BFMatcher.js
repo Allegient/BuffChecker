@@ -25,7 +25,7 @@ const stackingConsumables = [
   'ursus',
   'mvp',
 ]
-const elixrs = ['WH', 'Door']
+const elixrs = ['sayram', 'aurelia']
 const eventBuffs = ['vip']
 const alchemy = ['exceptional-boost', 'legendary-hero']
 const smithing = ['weapon-tempering']
